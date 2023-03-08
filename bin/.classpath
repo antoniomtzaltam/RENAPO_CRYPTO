@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Trabajo/P7M/P7MGen_DEV/bcmail-jdk16-146.jar"/>
+	<classpathentry kind="lib" path="C:/Trabajo/P7M/P7MGen_DEV/bcprov-ext-jdk16-146.jar"/>
+	<classpathentry kind="lib" path="C:/Trabajo/P7M/P7MGen_DEV/bcprov-jdk16-146.jar"/>
+	<classpathentry kind="lib" path="C:/Trabajo/P7M/P7MGen_DEV/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Trabajo/P7M/P7MGen_DEV/META-INF/maven/commons-codec/commons-codec-1.15/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Trabajo/P7M/P7MGen_DEV/META-INF/maven/commons-codec/commons-codec-1.15/commons-codec-1.15-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Trabajo/P7M/P7MGen_DEV/META-INF/maven/commons-codec/commons-codec-1.15/commons-codec-1.15-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Trabajo/P7M/P7MGen_DEV/META-INF/maven/commons-codec/commons-codec-1.15/commons-codec-1.15-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Trabajo/P7M/P7MGen_DEV/META-INF/maven/commons-codec/commons-codec-1.15/commons-codec-1.15-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Trabajo/P7M/P7MGen_DEV/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Trabajo/P7M/P7MGen_DEV/activation-1.1.jar"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Built-By: martinezjuan
+Build-Jdk: 17.0.6
+Created-By: Maven Integration for Eclipse
+Implementation-Title: Commons Codec
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Vendor-Id: org.apache
+Implementation-Version: 1.5
+Specification-Title: Commons Codec
+Specification-Vendor: The Apache Software Foundation
+Specification-Version: 1.5
+X-Compile-Source-JDK: 1.4
+X-Compile-Target-JDK: 1.4
+
